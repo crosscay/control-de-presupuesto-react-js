@@ -1,4 +1,4 @@
-# Adminstrador de Pacientes para Veterinaria
+# Control de Presupuesto
 Aplicación web creada en react js para el control de un presupuesto.
 ### [Demostración](https://crosscay.github.io/control_de_presupuesto_react/)
 
