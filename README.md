@@ -10,8 +10,8 @@ Aplicación web creada en react js para el control de un presupuesto.
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/Administrador_de_Pacientes_Veterinaria_React.git
-$ cd Adminstrador-de-Pacientes-Veterinaria-Reactjs
+$ git clon https://github.com/crosscay/control_de_presupuesto_react.git
+$ cd control_de_presupuesto
 # instala las dependencias del proyecto
 $ npm i
 # ejecute `npm start` para un servidor de desarrollo. Vaya a `http: // localhost: 3000 /`.
