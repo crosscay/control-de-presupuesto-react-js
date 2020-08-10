@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/control_de_presupuesto_react/static/css/main.480fbee7.chunk.css",
+    "main.js": "/control_de_presupuesto_react/static/js/main.ddc79186.chunk.js",
+    "main.js.map": "/control_de_presupuesto_react/static/js/main.ddc79186.chunk.js.map",
+    "runtime-main.js": "/control_de_presupuesto_react/static/js/runtime-main.7f43e722.js",
+    "runtime-main.js.map": "/control_de_presupuesto_react/static/js/runtime-main.7f43e722.js.map",
+    "static/js/2.cb3e2a0f.chunk.js": "/control_de_presupuesto_react/static/js/2.cb3e2a0f.chunk.js",
+    "static/js/2.cb3e2a0f.chunk.js.map": "/control_de_presupuesto_react/static/js/2.cb3e2a0f.chunk.js.map",
+    "index.html": "/control_de_presupuesto_react/index.html",
+    "precache-manifest.6561017cc5eb44096e5da4a9c70b1b68.js": "/control_de_presupuesto_react/precache-manifest.6561017cc5eb44096e5da4a9c70b1b68.js",
+    "service-worker.js": "/control_de_presupuesto_react/service-worker.js",
+    "static/css/main.480fbee7.chunk.css.map": "/control_de_presupuesto_react/static/css/main.480fbee7.chunk.css.map",
+    "static/js/2.cb3e2a0f.chunk.js.LICENSE.txt": "/control_de_presupuesto_react/static/js/2.cb3e2a0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f43e722.js",
+    "static/js/2.cb3e2a0f.chunk.js",
+    "static/css/main.480fbee7.chunk.css",
+    "static/js/main.ddc79186.chunk.js"
+  ]
+}
