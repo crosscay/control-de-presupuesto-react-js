@@ -1,6 +1,6 @@
 # Control de Presupuesto
 Aplicación web creada en react js para el control de un presupuesto.
-### [Demostración](https://crosscay.github.io/control_de_presupuesto_react/)
+### [Demostración](https://control-de-presupuesto-react-js.netlify.app/)
 
 ### Sceenshot
 ![gasto_semanal_1](https://user-images.githubusercontent.com/15184739/89744684-f930ae00-da74-11ea-9922-8e276f58d60d.PNG)
