@@ -11,7 +11,7 @@ Aplicación web creada en react js para el control de un presupuesto.
 Para iniciar el proyecto utilice:
 
 ```bash
-$ git clon https://github.com/crosscay/control_de_presupuesto_react.git
+$ git clon https://github.com/crosscay/control-de-presupuesto-react-js.git
 $ cd control_de_presupuesto
 # instala las dependencias del proyecto
 $ npm i
